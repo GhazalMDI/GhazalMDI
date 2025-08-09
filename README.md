@@ -16,9 +16,12 @@
 ---
 
 ## 📌 Key Projects
+- **Clinic Appointment System** — Frontend with Angular  
 - **Clinic Appointment System** — Backend with Django + Frontend with Angular  
 - **petShop** — development with django template
-  
+- **AutomobiletTools** — development with django template
+- **MakeUpStore** — development with django template
+
 ---
 
 ## 📫 Contact Me
