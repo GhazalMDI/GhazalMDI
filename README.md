@@ -1,32 +1,39 @@
-# Hi! I'm Ghazal Mohammadi 👋
+# Hi, I'm Ghazal Mohammadi 👋
 
-💻 Backend developer focused on **Python** and **Django**  
-🚀 Passionate about learning new technologies and applying modern tools in projects  
-📍 Current location: 🌍
+💻 Backend Developer | Python & Django  
+🚀 Exploring **Data Science & Machine Learning**  
 
 ---
 
 ## 🛠 Skills
-- Python, Django, Django REST Framework  
-- Angular (Frontend)  
-- PostgreSQL, MySQL,sqlserver
-- Git & GitHub  
-- Docker  
+
+- **Backend:** Python, Django, Django REST Framework  
+- **Frontend:** Angular  
+- **Databases:** PostgreSQL, MySQL, SQL Server  
+- **Dev Tools:** Git, GitHub, Docker  
+- **Data & ML (Learning):** NumPy, Pandas, scikit-learn  
 
 ---
 
-## 📌 Key Projects
-- **Clinic Appointment System** — Backend with Django + Frontend with Angular  
-- **petShop** — development with django template
-- **AutomobiletTools** — development with django template
-- **MakeUpStore** — development with django template
+## 📌 Projects
+
+### Backend & Fullstack
+- **Clinic Appointment System** — Django Backend + Angular Frontend  
+- **PetShop** — Django Template  
+- **AutomobileTools** — Django Template  
+- **MakeUpStore** — Django Template  
+
+### Data & Machine Learning
+- **Coming soon!** — Exploring predictive models, data analysis, and ML applications  
 
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** [https://www.linkedin.com/in/ghazal-mohammadi-199986312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAZXh0bgNhZW0CMTEAAad7Hvo_NHfrhq1eEkR_VPe12yF9Y7LACZExVpPht9jkN1iE5Ga1DCVm0GnvQQ_aem_qqATZx0HS2Jt8XP1r7iz0g]    
-- **GitHub:** [https://github.com/GhazalMDI](https://github.com/GhazalMDI)  
+
+- **LinkedIn:** [Ghazal Mohammadi](https://www.linkedin.com/in/ghazal-mohammadi-199986312)  
+- **GitHub:** [GhazalMDI](https://github.com/GhazalMDI)  
 
 ---
 
-⭐ If you find my projects interesting, feel free to follow me and give a star!
+⭐ If you like my projects, feel free to **follow** me and **give a star**!  
+🔍 Also diving into the world of **Data Science & Machine Learning** – stay tuned for new projects!
