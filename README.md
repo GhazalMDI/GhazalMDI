@@ -23,9 +23,10 @@
 - **AutomobileTools** — Django Template  
 - **MakeUpStore** — Django Template  
 - **Speech shadowing** — FastApi + Angular + RAG + LLM
-- 
+- **Asset-Backed-Finance-Q-A** — FastApi + RAG + LLM
+
 ### Data & Machine Learning
-- **Coming soon!** — Cats and dog classifier
+- **Cats and dog classifier** — SGDClassifier
 
 ---
 
