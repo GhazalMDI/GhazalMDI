@@ -1,15 +1,15 @@
 # Hi, I'm Ghazal Mohammadi 👋
 
-💻 Backend Developer | Python & Django  
+💻 Backend Developer | Python & Django | FastAPI
 🚀 Exploring **Data Science & Machine Learning**  
 
 ---
 
 ## 🛠 Skills
 
-- **Backend:** Python, Django, Django REST Framework  
+- **Backend:** Python, Django, Django REST Framework,FastAPI 
 - **Frontend:** Angular  
-- **Databases:** PostgreSQL, MySQL, SQL Server  
+- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB  
 - **Dev Tools:** Git, GitHub, Docker  
 - **Data & ML (Learning):** NumPy, Pandas, scikit-learn  
 
@@ -22,9 +22,10 @@
 - **PetShop** — Django Template  
 - **AutomobileTools** — Django Template  
 - **MakeUpStore** — Django Template  
-
+- **Speech shadowing** — FastApi + Angular + RAG + LLM
+- 
 ### Data & Machine Learning
-- **Coming soon!** — Exploring predictive models, data analysis, and ML applications  
+- **Coming soon!** — Cats and dog classifier
 
 ---
 
