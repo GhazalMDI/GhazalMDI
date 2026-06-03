@@ -8,12 +8,11 @@
 ## 🛠 Skills
 
 - **Backend:** Python, Django, Django REST Framework,FastAPI 
-- **Frontend:** Angular  
+- **Frontend:** Angular, jQuery, Ajax, TypeScript, JavaScript   
 - **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB  
 - **Dev Tools:** Git, GitHub, Docker  
 - **Data & ML (Learning):** NumPy, Pandas, scikit-learn  
-
----
+- **AI (Learning):** RAG, LLMs, Crewai, MCP server, Speech-to-text
 
 ## 📌 Projects
 
@@ -22,7 +21,7 @@
 - **PetShop** — Django Template  
 - **AutomobileTools** — Django Template  
 - **MakeUpStore** — Django Template  
-- **Speech shadowing** — FastApi + Angular + RAG + LLM
+- **Speech shadowing** — FastApi + Angular + RAG + LLM + Speech-to-text
 - **Asset-Backed-Finance-Q-A** — FastApi + RAG + LLM
 
 ### Data & Machine Learning
@@ -34,6 +33,8 @@
 
 - **LinkedIn:** [Ghazal Mohammadi](https://www.linkedin.com/in/ghazal-mohammadi-199986312)  
 - **GitHub:** [GhazalMDI](https://github.com/GhazalMDI)  
+- **Email:** ghazal.mohammadi.developer@gmail.com
+- **Meduim:** https://medium.com/@ghazal.mohammadi.developer
 
 ---
 
