@@ -1,7 +1,6 @@
 # Hi, I'm Ghazal Mohammadi 👋
 
-💻 Backend Developer | Python & Django | FastAPI
-🚀 Exploring **Data Science & Machine Learning**  
+💻 Backend Developer | Python & Django | FastAPI | Exploring **Data Science & Machine Learning**  
 
 ---
 
@@ -21,7 +20,7 @@
 - **PetShop** — Django Template  
 - **AutomobileTools** — Django Template  
 - **MakeUpStore** — Django Template  
-- **Speech shadowing** — FastApi + Angular + RAG + LLM + Speech-to-text
+- **Speech shadowing** — FastAPI + Angular + Speech-to-Text (Whisper) + Audio Processing + Sequence Matching
 - **Asset-Backed-Finance-Q-A** — FastApi + RAG + LLM
 
 ### Data & Machine Learning
