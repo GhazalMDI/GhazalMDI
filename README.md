@@ -1,6 +1,6 @@
 # Hi, I'm Ghazal Mohammadi 👋
 
-💻 Backend Developer | Python & Django | FastAPI | Exploring **Data Science & Machine Learning**  
+💻 Backend Developer | Django-FastAPI & Python | AI/ML Enthusiast | Building Scalable Intelligent Systems**  
 
 ---
 
