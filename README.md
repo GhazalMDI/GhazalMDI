@@ -18,9 +18,9 @@
 ### Backend & Fullstack
 - **Clinic Appointment System** — Django Backend + Angular Frontend  
 - **PetShop** — Django Template  
-- **AutomobileTools** — Django Template  
 - **MakeUpStore** — Django Template  
 - **Speech shadowing** — FastAPI + Angular + Speech-to-Text (Whisper) + Audio Processing + Sequence Matching
+- **GenAI-Powered Document Processing System** — FastAPI + Angular + MongoDb + OpenRouter + PaddleOCR (In Development...)
 - **Asset-Backed-Finance-Q-A** — FastApi + RAG + LLM
 
 ### Data & Machine Learning
