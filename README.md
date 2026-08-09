@@ -10,8 +10,8 @@ Backend Developer | Django-FastAPI & Python | AI/ML Enthusiast | Building Scalab
 - **Frontend:** Angular, jQuery, Ajax, TypeScript, JavaScript   
 - **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB  
 - **Dev Tools:** Git, GitHub, Docker  
-- **Data & ML (Learning):** NumPy, Pandas, scikit-learn  
-- **AI (Learning):** RAG, LLMs, Crewai, MCP server, Speech-to-text
+- **Data & ML (Learning):** NumPy, Pandas, scikit-learn, transformer
+- **AI (Learning):** RAG, LLMs, Crewai, MCP server, Speech-to-text, NLP
 
 ## 📌 Projects
 
@@ -20,7 +20,7 @@ Backend Developer | Django-FastAPI & Python | AI/ML Enthusiast | Building Scalab
 - **PetShop** — Django Template  
 - **MakeUpStore** — Django Template  
 - **Speech shadowing** — FastAPI + Angular + Speech-to-Text (Whisper) + Audio Processing + Sequence Matching
-- **GenAI-Powered Document Processing System** — FastAPI + Angular + MongoDb + OpenRouter + PaddleOCR (In Development...)
+- **GenAI-Powered Document Processing System** — FastAPI + MongoDb + Higgingface + easyOcr (In Development...)
 - **Asset-Backed-Finance-Q-A** — FastApi + RAG + LLM
 
 ### Data & Machine Learning
